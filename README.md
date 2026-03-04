@@ -1,4 +1,4 @@
-# Sneha Portfolio Website
+# shubhangi Portfolio Website
 
 ## Project Description
 Responsive portfolio website with 3 pages:
@@ -18,3 +18,4 @@ Responsive portfolio website with 3 pages:
 
 ## Deployment
 Push to GitHub and enable GitHub Pages.
+
